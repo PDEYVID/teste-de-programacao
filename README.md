@@ -46,7 +46,7 @@ A Tarefa 3 é um projeto React que permite calcular a divisão da conta de um re
 
 ## Autor
 
-[Paulo Deyvid]
+Paulo Deyvid
 
 
 
