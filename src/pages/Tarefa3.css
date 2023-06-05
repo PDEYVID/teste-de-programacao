@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .title {
+    margin-bottom: 20px;
+  }
+  
+  .customers-container,
+  .products-container {
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  .customer,
+  .product {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    margin-right: 10px;
+  }
+  
+  .remove-button,
+  .add-button,
+  .calculate-button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-weight: bold;
+  }
+  
+  .remove-button {
+    margin-left: 10px;
+    color: red;
+  }
+  
+  .add-button {
+    color: green;
+  }
+  
+  .calculate-button {
+    color: blue;
+  }
+  

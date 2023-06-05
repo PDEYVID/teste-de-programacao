@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .title {
+    margin-bottom: 20px;
+  }
+  
+  .input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 5px;
+    margin-right: 10px;
+  }
+  
+  .convert-button {
+    padding: 5px 10px;
+    font-weight: bold;
+  }
+  
+  .converted-value {
+    margin-top: 20px;
+  }
+  
+  .back-button {
+    margin-top: 20px;
+  }
+  
